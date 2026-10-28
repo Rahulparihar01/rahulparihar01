@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Rahul 👋
 
-<!--
-**Rahulparihar01/rahulparihar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer | Python | FastAPI | PostgreSQL | MySQL | REST APIs | Generative AI
 
-Here are some ideas to get you started:
+I build scalable backend systems and client-focused Generative AI / AIML solutions that solve real business problems. My work sits at the intersection of backend engineering, intelligent automation, and practical product delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am passionate about building robust, production-ready systems and AI-powered solutions that create measurable impact. My focus is on clean architecture, reliable APIs, and delivering business value through technology.
+
+## Tech Stack
+
+### Backend
+- Python
+- FastAPI
+- REST APIs
+- API Design
+- Database Design
+- Backend Architecture
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### AI / GenAI / ML
+- Generative AI
+- AIML Solutions
+- AI Workflow Integration
+- Intelligent Automation
+- Data-Driven Solutions
+
+### Tools
+- Git & GitHub
+- Docker
+- Postman
+- VS Code
+- Linux
+
+## Current Focus
+- Building scalable backend systems
+- Developing client-focused Generative AI solutions
+- Designing reliable APIs and database-driven applications
+- Integrating AI into real-world business workflows
+
+## What I Build
+- Robust backend services
+- API-driven applications
+- Database-powered systems
+- AI-powered workflows and automation
+- Practical solutions for client use cases
+
+## Connect
+- Portfolio: https://rahulp-portfolio.lovable.app
+- LinkedIn: https://www.linkedin.com/in/rahul-parihar-35383a154/
+- Email: rahulparihar01aug@gmail.com
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulparihar01&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulparihar01&layout=compact&theme=dark)
